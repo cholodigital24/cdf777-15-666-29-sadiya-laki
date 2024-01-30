@@ -18,18 +18,18 @@ function Address() {
                 onClick={() => (window.location.href = "tel:+8801985381288")}
                 className="text-base"
               >
-                +88 00000-000000
+                +88 018263143283
               </button>
             </div>
             <div className="c-info-item flex items-center my-10 font-light w-4/5">
               <img className="c-icon w-10 h-10 mr-5" src={Email} alt="email" />
               <button
                 onClick={() =>
-                  (window.location.href = "mailto:sabidofficial@gmail.com")
+                  (window.location.href = "sadialucky1990@gmail.com")
                 }
                 className="text-base"
               >
-                teambidya@gmail.com
+                sadialucky1990@gmail.com
               </button>
             </div>
             <div className="c-info-item my-10 font-light w-4/5 flex items-center">
