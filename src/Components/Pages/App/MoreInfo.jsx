@@ -16,7 +16,7 @@ function MoreInfo() {
           <FaCheckCircle className="text-primary" /> My Achievements
         </h2>
         <ul className="flex flex-col gap-4 text-sm font-normal ">
-          <li>I am the sohokormi at brack</li>
+          <li>I am the sohokormi at Verk</li>
           <li>I am sitylioclube of dhaka flaw garden international</li>
           <li>Vaccinator in sefta ltd</li>
         </ul>
